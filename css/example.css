@@ -9,4 +9,44 @@ h1 {
 	font-family: ;
 }
 
+p {
+	  font-family: "Merriweather", serif;
+}
+
+	nav {
+
+	display: flex;
+	justify-content: center;
+	text-transform: uppercase;
+	font-family: ;
+}
+
+nav {
+	font-family: "Kode Mono", sans-serif;
+}
+
+nav {
+
+	display: flex;
+	justify-content: center;
+	text-transform: uppercase;
+	font-family: ;
+}
+
+img {
+	max-width: 300px;
+}
+
+}
+
+.lead-image {
+	display: flex;
+	justify-content: center;
+
+}
+
+.lead-image img {
+	margin: 0 auto;
+	object-fit: contain;
+	max-width: 100%;
 }
