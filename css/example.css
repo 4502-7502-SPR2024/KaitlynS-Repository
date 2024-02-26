@@ -1,37 +1,39 @@
-h1 {
-	font-family: "Roboto", sans-serif;
-}
-	nav {
+nav {
 
 	display: flex;
 	justify-content: center;
 	text-transform: uppercase;
 	font-family: ;
+}
+
+h1 {
+
+	display: flex;
+	justify-content: center;
+	text-transform: none;
+	font-family: ;
+}
+
+p {
+
+	display: flex;
+	justify-content: center;
+	text-transform: none;
+	font-family: ;
+}
+
+h1 {
+	font-family: "Roboto", sans-serif;
 }
 
 p {
 	  font-family: "Merriweather", serif;
 }
 
-	nav {
-
-	display: flex;
-	justify-content: center;
-	text-transform: uppercase;
-	font-family: ;
-}
-
 nav {
 	font-family: "Kode Mono", sans-serif;
 }
 
-nav {
-
-	display: flex;
-	justify-content: center;
-	text-transform: uppercase;
-	font-family: ;
-}
 
 img {
 	max-width: 300px;
