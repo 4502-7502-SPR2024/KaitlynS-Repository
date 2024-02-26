@@ -22,6 +22,7 @@ p {
 	font-family: ;
 }
 
+
 h1 {
 	font-family: "Roboto", sans-serif;
 }
@@ -51,4 +52,24 @@ img {
 	margin: 0 auto;
 	object-fit: contain;
 	max-width: 100%;
+}
+
+h1 {
+		font-size: 2rem;
+		background: #6a5acd;
+		color: peachpuff;
+		text-align: center;
+	}
+
+body {
+  background-color: aliceblue;
+}
+
+p {
+  background-color: lightgoldenrodyellow;
+}	
+
+ul {
+  background-color: indianred;
+}
 }
