@@ -28,7 +28,7 @@ h1 {
 }
 
 p {
-	  font-family: "Merriweather", serif;
+	  font-family: "Merriweather", serif; 
 }
 
 nav {
@@ -56,21 +56,21 @@ img {
 
 h1 {
 		font-size: 2rem;
-		background: #6a5acd;
+		background: midnightblue;
 		color: peachpuff;
 		text-align: center;
 	}
 
 body {
-  background-color: aliceblue;
+  background-color: floralwhite;
 }
 
 p {
-  background-color: lightgoldenrodyellow;
+  background-color: mistyrose;
 }	
 
 ul {
-  background-color: indianred;
+  background-color: Honeydew;
 }
 
 ul {
